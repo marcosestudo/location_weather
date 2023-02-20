@@ -21,3 +21,9 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# o arquivo .env não deve ser upado pro github quando for fazer deploy 
+# por segurnaça, o .env deve existir somente na máquina onde o app está rodando
+# aqui, por facilidade, será mandado pro github pra que possa ser testado sem necessidade do recrutador criar um arquivo novo
+# normalmente o .env deve ser incluído no .gitignore
+# .env
