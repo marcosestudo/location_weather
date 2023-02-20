@@ -1,34 +1,43 @@
-<h2>Location Weather</h2>
+# Location Weather com React
+
+> Projeto pra prática de consumo de API usando React
 
 Para instalar as dependências e rodar o projeto, deve ter instalado o [Node](https://nodejs.org/en/)
 
-<hr>
+## Usando o terminal, siga os passos...
+## 1. Clonando o projeto 
 
-<h3>Instalando dependencias:</h3>
-  <p>Na pasta weather_location use o comando no terminal:</p>
+```
+git clone https://github.com/marcosestudo/location_weather.git
+```
 
-  ```
-  npm install
-  ```
+## 2. Instalando as dependências
 
-<hr>
+Vá para a pasta
 
-<h3>Iniciando:</h3>
-  <p>No terminal, na pasta weather_location:</p>
+```
+cd location_weather
+```
 
-  ```
-  npm start
-  ```
+Instale as dependências
 
-<hr>
-  
-- Visualize o app rodando no navegador em [localhost:3000](http://localhost:3000/)
+```
+npm install
+```
 
-<hr>
+## Iniciando
+
+Inicie com o comando
+
+```
+npm start
+```
+
+## Visualize o app rodando no navegador em [localhost:3000](http://localhost:3000/)
 
 ### 🛠 Tecnologias
 
-<p>As seguintes ferramentas foram usadas na construção do projeto:</p>
+As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [React](https://pt-br.reactjs.org/)
