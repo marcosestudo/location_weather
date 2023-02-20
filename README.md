@@ -1,4 +1,4 @@
-<h2>To-do list</h2>
+<h2>Location Weather</h2>
 
 Para instalar as dependências e rodar o projeto, deve ter instalado o [Node](https://nodejs.org/en/)
 
@@ -10,7 +10,7 @@ Para instalar as dependências e rodar o projeto, deve ter instalado o [Node](ht
   ```
   npm install
   ```
-  
+
 <hr>
 
 <h3>Iniciando:</h3>
