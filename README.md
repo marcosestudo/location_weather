@@ -25,7 +25,7 @@ Instale as dependências
 npm install
 ```
 
-## Iniciando
+## 3. Iniciando
 
 Inicie com o comando
 
@@ -33,7 +33,7 @@ Inicie com o comando
 npm start
 ```
 
-## Visualize o app rodando no navegador em [localhost:3000](http://localhost:3000/)
+## 4. Visualize o app rodando no navegador em [localhost:3000](http://localhost:3000/)
 
 ### 🛠 Tecnologias
 
