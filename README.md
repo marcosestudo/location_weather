@@ -40,6 +40,7 @@ npm start
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [JSX](https://pt-br.reactjs.org/docs/introducing-jsx.html)
 - [React](https://pt-br.reactjs.org/)
 - [Axios](https://axios-http.com/ptbr/)
 - [OpenWeatherMap](https://openweathermap.org)
